@@ -2,4 +2,5 @@ faiss-cpu
 langchain 
 ollama
 sentence-transformers
+pdfplumber
 langchain-community
