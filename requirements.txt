@@ -3,4 +3,8 @@ langchain
 ollama
 sentence-transformers
 pdfplumber
-langchain-community
+langchain-communit
+tensorflow
+tensorflow_hub
+tf-keras
+
